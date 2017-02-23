@@ -1,2 +1,3 @@
 # boilerplates
-Starter skeletons
+
+Quick start skeletons for projects

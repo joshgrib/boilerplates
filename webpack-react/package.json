@@ -1,0 +1,34 @@
+{
+  "name": "mealplan-datavis",
+  "version": "1.0.0",
+  "description": "A React app for playing with meal plan data",
+  "main": "index.js",
+  "repository": "https://github.com/joshgrib/mealplan-datavis.git",
+  "author": "Josh Gribbon <jgribbon@stevens.edu>",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack-dashboard -- webpack-dev-server"
+  },
+  "dependencies": {
+    "css-loader": "^0.26.1",
+    "html-webpack-plugin": "^2.28.0",
+    "path": "^0.12.7",
+    "react": "^15.4.2",
+    "react-addons-css-transition-group": "^15.4.2",
+    "react-addons-transition-group": "^15.4.2",
+    "react-bootstrap": "^0.30.7",
+    "react-dom": "^15.4.2",
+    "react-tap-event-plugin": "^2.0.1",
+    "reactstrap": "^4.2.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^2.2.1",
+    "webpack-dev-server": "^2.3.0"
+  },
+  "devDependencies": {
+    "babel-core": "^6.23.1",
+    "babel-loader": "^6.3.1",
+    "babel-preset-es2015": "^6.22.0",
+    "babel-preset-react": "^6.23.0",
+    "webpack-dashboard": "^0.3.0"
+  }
+}

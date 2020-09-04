@@ -39,7 +39,7 @@
     "express": "^4.14.0",
     "express-handlebars": "^3.0.0",
     "handlebars": "^4.0.5",
-    "mongodb": "^2.1.18",
+    "mongodb": "^3.6.1",
     "node-redis-pubsub": "^0.9.0",
     "node-uuid": "^1.4.7",
     "xss": "^0.2.13"
